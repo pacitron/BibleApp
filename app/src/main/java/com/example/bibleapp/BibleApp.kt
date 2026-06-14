@@ -22,7 +22,7 @@ class BibleApp : Application() {
         //     Without a valid key the app will open but Bible content won't load.
         YouVersionPlatformConfiguration.configure(
             this,
-            "secret"
+            "YOUR_ACTUAL_APP_KEY_HERE"
         )
     }
 }
