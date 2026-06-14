@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+        The XML theme only applies to the Activity window chrome (status bar, etc.).
+        All in-app UI is handled by MaterialTheme in Compose.
+        DayNight means Android automatically chooses light or dark based on system setting.
+    -->
+    <style name="Theme.BibleApp" parent="Theme.Material3.DayNight.NoActionBar" />
+</resources>
